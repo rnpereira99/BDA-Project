@@ -6,7 +6,7 @@ In this project, we are going to work on 3 notebooks:
 - 2. Clustering: For clustering 
 - 3. Project Forecasting: For Sales Forecast. <br>
 
-# Group 77
+# Group Members
 
 |   | Student Name          |  Student ID | 
 |---|-----------------------|    ---      |
