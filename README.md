@@ -1,5 +1,20 @@
 <h1>Big Data Analytics Project</h1>
 
+### [NOTE]
+In this project, we are going to work on 3 notebooks:
+- 1. Cleaning: For EDA and Data Preprocessing
+- 2. Clustering: For clustering 
+- 3. Project Forecasting: For Sales Forecast. <br>
+
+# Group 77
+
+|   | Student Name          |  Student ID | 
+|---|-----------------------|    ---      |
+| 1 | Hassan Bhatti       |  20241022 |
+| 2 | Moeko Mitani          |   20240670  | 
+| 3 | Oumayma Ben Hfaiedh   |   20240699  | 
+| 4 | Ricardo Pereira      |  20240745  | 
+
 ## 1.1. Business Background
 
 The retail industry is undergoing a significant transformation. Online retail shopping has become an absolute necessity to compete for business, and with that change comes new challenges, especially in niche areas such as gift items. As customer expectations rise and buying habits become more complex, retailers can no longer rely solely on intuition to gauge demand or manage inventory. They must become data-driven.
@@ -56,3 +71,20 @@ Success for this project will be evaluated using both **quantitative** and **qua
 - **Scalability Potential**: The approach should be adaptable to larger datasets and scalable for production-level deployment in a real business context.
 
 By combining rigorous analytics with creative storytelling, this project aims not only to deliver strategic insights but also to shift the company mindset toward becoming truly data-driven.
+
+## 2. Metadata
+
+| Features | Descriptions |
+|---------|---------------------|
+| *ID* | Customer ID |
+| *Invoice* | Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation. |
+| *StockCode* | Product (item) code. Nominal. A 5-digit integral number uniquely assigned to each distinct product. |
+| *Description* | Product (item) name. Nominal. |
+| *Quantity* | The quantities of each product (item) per transaction. Numeric. |
+| *InvoiceDate* | Invoice date and time. Numeric. The day and time when a transaction was generated. |
+| *Price* | Unit price. Numeric. Product price per unit in sterling (Â£). |
+| *Customer ID* | Customer number. Nominal. A 5-digit integral number uniquely assigned to each customer. |
+| *Country* | Country name. Nominal. The name of the country where a customer resides. |
+
+
+##
