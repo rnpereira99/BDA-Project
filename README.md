@@ -8,12 +8,12 @@ In this project, we are going to work on 3 notebooks:
 
 # Group Members
 
-|   | Student Name          |  Student ID | 
-|---|-----------------------|    ---      |
-| 1 | Hassan Bhatti       |  20241022 |
-| 2 | Moeko Mitani          |   20240670  | 
-| 3 | Oumayma Ben Hfaiedh   |   20240699  | 
-| 4 | Ricardo Pereira      |  20240745  | 
+|   | Student Name          |
+|---|-----------------------|
+| 1 | Hassan Bhatti       |  
+| 2 | Moeko Mitani          |
+| 3 | Oumayma Ben Hfaiedh   |
+| 4 | Ricardo Pereira      |
 
 ## 1.1. Business Background
 
