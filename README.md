@@ -1,20 +1,5 @@
 <h1>Big Data Analytics Project</h1>
 
-### [NOTE]
-In this project, we are going to work on 3 notebooks:
-- 1. Cleaning: For EDA and Data Preprocessing
-- 2. Clustering: For clustering 
-- 3. Project Forecasting: For Sales Forecast. <br>
-
-# Group Members
-
-|   | Student Name          |
-|---|-----------------------|
-| 1 | Hassan Bhatti       |  
-| 2 | Moeko Mitani          |
-| 3 | Oumayma Ben Hfaiedh   |
-| 4 | Ricardo Pereira      |
-
 ## 1.1. Business Background
 
 The retail industry is undergoing a significant transformation. Online retail shopping has become an absolute necessity to compete for business, and with that change comes new challenges, especially in niche areas such as gift items. As customer expectations rise and buying habits become more complex, retailers can no longer rely solely on intuition to gauge demand or manage inventory. They must become data-driven.
